@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flexter9" alt="flexter9" /></a> </p>
 
-- 🔭 I’m currently working on **myself only**
+- 🔭 I’m currently working on **myself**
 
 - 🌱 I’m currently learning **JavaScript and CSS**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rushikeshbankar955@gmail.com**
 
-- ⚡ Fun fact **I never get a missing semi-colon Guess why? coz I code in python XD**
+- ⚡ Fun fact **I never get a missing semi-colon error Guess why? coz I code in python XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
