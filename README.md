@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rushikeshbankar955@gmail.com**
 
-- ⚡ Fun fact **I never get a missing semi-colon error Guess why? coz I code in python XD**
+- ⚡ Fun fact **Coding has over 700 languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
